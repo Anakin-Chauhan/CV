@@ -1,0 +1,88 @@
+body {
+  background-color: #2C3333;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+hr {
+  background-color: #2C3333;
+  color: #F6FBF4;
+  border-style: dotted none none;
+  height: 1px;
+  width: 5%;
+  border-width: 5px;
+}
+
+h1 {
+  color: #F6FBF4;
+  font-family: system-ui;
+}
+
+h2 {
+  color: #F6FBF4;
+  font-family: system-ui;
+}
+
+h3 {
+  color: #F6FBF4;
+  font-family: system-ui;
+}
+
+p {
+  color: #B4A5A5;
+  font-family: system-ui;
+}
+
+thead {
+  color: #F6FBF4;
+  font-family: system-ui;
+}
+
+tbody {
+  color: #B4A5A5;
+  font-family: system-ui;
+}
+
+ul {
+  color: #B4A5A5;
+  font-family: system-ui;
+}
+
+a {
+  color: #CA3E47;
+  font-family: system-ui;
+}
+
+form {
+  color: #F6FBF4;
+  font-family: system-ui;
+  text-align: center;
+}
+
+label {
+  text-align: center;
+  vertical-align: top;
+}
+
+input {
+  border-color: #000000;
+  border-width: medium;
+  border-radius: 8px;
+}
+
+textarea {
+  border-color: #000000;
+  border-width: medium;
+  border-radius: 12px;
+}
+
+.Contact_me {
+  text-align: center;
+}
+
+.Hobbies {
+  color: #B4A5A5;
+  font-family: system-ui
+}
